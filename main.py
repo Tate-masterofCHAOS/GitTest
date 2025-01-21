@@ -7,3 +7,6 @@
 
 def main():
     pass
+
+
+main()
